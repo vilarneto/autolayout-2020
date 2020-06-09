@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Add book"; ObjectID = "CJS-Pw-mg1"; */
+"CJS-Pw-mg1.normalTitle" = "הוסף ספר";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "aRH-l0-Ti8"; */
+"aRH-l0-Ti8.text" = "כותרת";
+
+/* Class = "UILabel"; text = "Genre"; ObjectID = "liN-rC-bSZ"; */
+"liN-rC-bSZ.text" = "ז'אנר";
+
+/* Class = "UILabel"; text = "Author"; ObjectID = "tKZ-Wj-sb0"; */
+"tKZ-Wj-sb0.text" = "מחבר";
